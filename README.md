@@ -1,16 +1,14 @@
-### Hi there 👋
+# Jinyoung Jang
 
-<!--
-**mgynsz/mgynsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-native Product Builder focused on turning product ideas
+into working, deployable services.
 
-Here are some ideas to get you started:
+Started with iOS development and expanded into
+web, backend, cloud infrastructure and ML-powered products.
 
-- 🔭 I’m currently working on ... free
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+- Rangeon — crypto market analytics SaaS
+- Kivvo — memory-management vocabulary learning platform
+- Momento — mobile product in production
+
+Portfolio → [link]
