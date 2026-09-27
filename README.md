@@ -11,4 +11,4 @@ Currently building:
 - Kivvo — memory-management vocabulary learning platform
 - Momento — mobile product in production
 
-Portfolio → [link]
+Portfolio → https://github.com/mgynsz/product-portfolio
