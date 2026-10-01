@@ -1,14 +1,20 @@
 # Jinyoung Jang
 
-AI-native Product Builder focused on turning product ideas
-into working, deployable services.
+**Product Manager · Product Builder**
 
-Started with iOS development and expanded into
-web, backend, cloud infrastructure and ML-powered products.
+I connect customer problems, business goals, and technology
+to turn ideas into working products.
 
-Currently building:
-- Rangeon — crypto market analytics SaaS
-- Kivvo — memory-management vocabulary learning platform
-- Momento — mobile product in production
+My background spans business operations, iOS, web, backend,
+cloud infrastructure, and ML-enabled product development.
 
-Portfolio → https://github.com/mgynsz/product-portfolio
+### Currently building
+
+- **Rangeon** — ML-enabled crypto market analytics SaaS
+- **Kivvo** — adaptive learning platform for memory management
+- **Momento** — mobile journaling product in production · ~120 users
+
+### Links
+
+- [Product Portfolio](https://github.com/mgynsz/product-portfolio)
+- [LinkedIn](https://www.linkedin.com/in/mgynsz/)
